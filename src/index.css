@@ -1,9 +1,5 @@
-body {
-  background-color: #cff;
-  /* Fundo azul claro */
-}
+@import "tailwindcss";
 
-h2 {
-  background-color: red;
-  /* Fundo vermelho */
+body {
+  background-color: #393f4d;
 }
