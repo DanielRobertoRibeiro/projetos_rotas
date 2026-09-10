@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 const Protudo = () => {
   return (
     <>
-      
+      <h1>Nosso Produto</h1>
     </>
   )
 }

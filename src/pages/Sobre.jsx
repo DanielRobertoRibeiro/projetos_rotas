@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 const Sobre = () => {
   return (
     <>
-      
+      <h1>Sobre a iniciativa</h1>
     </>
   )
 }
